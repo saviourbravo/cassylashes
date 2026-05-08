@@ -1,0 +1,120 @@
+    <!-- ── Volume Set ───────────────────────────────── -->
+
+    <section class="best-sellers">
+      <div class="container">
+        <!-- <h2 class="section-title fade-up">Volume Set</h2> -->
+        <div class="products-grid">
+          <!-- Product 1 -->
+          <div class="product-card fade-up">
+            <div class="img-wrap">
+              <img width="200px" src="/public/images/Classic Set.jpg" alt="" />
+            </div>
+            <div class="product-info">
+              <div class="product-name">Classy Set</div>
+              <div class="product-sub">Natural &amp; Soft look</div>
+              <button class="btn-add" data-="Classy Set">Book Now</button>
+            </div>
+          </div>
+
+          <!-- Product 2 — Eyeliner pen -->
+          <div class="product-card fade-up" style="transition-delay: 0.1s">
+            <div class="img-wrap">
+              <img
+                width="200px"
+                src="/public/images/sugar-lady-rzesy-bondingowe-zdjecie-modelu-drama-queen-1000x947.jpg"
+                alt=""
+              />
+            </div>
+            <div class="product-info">
+              <div class="product-name">The Pretty Pen</div>
+              <div class="product-sub">Magnetic Eyeliner Pen</div>
+              <button class="btn-add">Add to Cart — $35 USD</button>
+            </div>
+          </div>
+
+          <!-- Product 3 — Applicator tweezers -->
+          <div class="product-card fade-up" style="transition-delay: 0.2s">
+            <div class="img-wrap">
+              <img width="200px" src="/public/images/Strip Lashes.jpg" alt="" />
+            </div>
+            <div class="product-info">
+              <div class="product-name">Lashes Applicator</div>
+              <div class="product-sub">Pretty and durable</div>
+              <button class="btn-add">Add to Cart — $18 USD</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ── Strip Lashes ────────────────────────────── -->
+
+    <section class="natural-way">
+      <div class="container">
+        <!-- <h2 class="section-title fade-up">Strip Lashes</h2> -->
+        <div class="products-grid">
+          <!-- Lash 1 -->
+          <div class="product-card fade-up" style="background: white">
+            <div
+              class="img-wrap"
+              style="background: white; border-bottom: 1px solid #eedee0"
+            >
+              <img
+                width="200px"
+                src="/public/images/sugar-lady-rzesy-bondingowe-zdjecie-modelu-drama-queen-1000x947.jpg"
+                alt=""
+              />
+            </div>
+            <div class="product-info">
+              <div class="product-name">Is It Enough?</div>
+              <div class="product-sub">Strip Lashes</div>
+              <button class="btn-add">Book Now</button>
+            </div>
+          </div>
+
+          <!-- Lash 2 -->
+          <div
+            class="product-card fade-up"
+            style="background: white; transition-delay: 0.1s"
+          >
+            <div
+              class="img-wrap"
+              style="background: white; border-bottom: 1px solid #eedee0"
+            >
+              <img
+                width="200px"
+                src="/public/images/sugar-lady-rzesy-bondingowe-zdjecie-modelu-drama-queen-1000x947.jpg"
+                alt=""
+              />
+            </div>
+            <div class="product-info">
+              <div class="product-name">G for Gorgeous</div>
+              <div class="product-sub">Natural 12-16 MM</div>
+              <button class="btn-add">Add to Cart — $24 USD</button>
+            </div>
+          </div>
+
+          <!-- Lash 3 -->
+          <div
+            class="product-card fade-up"
+            style="background: white; transition-delay: 0.2s"
+          >
+            <div
+              class="img-wrap"
+              style="background: white; border-bottom: 1px solid #eedee0"
+            >
+              <img
+                width="200px"
+                src="/public/images/sugar-lady-rzesy-bondingowe-zdjecie-modelu-drama-queen-1000x947.jpg"
+                alt=""
+              />
+            </div>
+            <div class="product-info">
+              <div class="product-name">They Wouldn't Know</div>
+              <div class="product-sub">Natural 9-11 MM</div>
+              <button class="btn-add">Add to Cart — $24 USD</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
