@@ -8,7 +8,7 @@ const path = require('path');
 const app = express();
 
 app.use(cors({
-  origin: "https://silly-platypus-85d501.netlify.app/"
+  origin: "https://cassylashes.netlify.app/"
 }));
 app.use(express.json());
 app.use(express.static(path.join(__dirname, 'public')));
