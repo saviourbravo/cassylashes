@@ -7,7 +7,7 @@
           <!-- Product 1 -->
           <div class="product-card fade-up">
             <div class="img-wrap">
-              <img width="200px" src="/public/images/Classic Set.jpg" alt="" />
+              <img width="200px" src="/images/Classic Set.jpg" alt="" />
             </div>
             <div class="product-info">
               <div class="product-name">Classy Set</div>
@@ -21,7 +21,7 @@
             <div class="img-wrap">
               <img
                 width="200px"
-                src="/public/images/sugar-lady-rzesy-bondingowe-zdjecie-modelu-drama-queen-1000x947.jpg"
+                src="/images/sugar-lady-rzesy-bondingowe-zdjecie-modelu-drama-queen-1000x947.jpg"
                 alt=""
               />
             </div>
@@ -35,7 +35,7 @@
           <!-- Product 3 — Applicator tweezers -->
           <div class="product-card fade-up" style="transition-delay: 0.2s">
             <div class="img-wrap">
-              <img width="200px" src="/public/images/Strip Lashes.jpg" alt="" />
+              <img width="200px" src="/images/Strip Lashes.jpg" alt="" />
             </div>
             <div class="product-info">
               <div class="product-name">Lashes Applicator</div>
@@ -61,7 +61,7 @@
             >
               <img
                 width="200px"
-                src="/public/images/sugar-lady-rzesy-bondingowe-zdjecie-modelu-drama-queen-1000x947.jpg"
+                src="/images/sugar-lady-rzesy-bondingowe-zdjecie-modelu-drama-queen-1000x947.jpg"
                 alt=""
               />
             </div>
@@ -83,7 +83,7 @@
             >
               <img
                 width="200px"
-                src="/public/images/sugar-lady-rzesy-bondingowe-zdjecie-modelu-drama-queen-1000x947.jpg"
+                src="/images/sugar-lady-rzesy-bondingowe-zdjecie-modelu-drama-queen-1000x947.jpg"
                 alt=""
               />
             </div>
@@ -105,7 +105,7 @@
             >
               <img
                 width="200px"
-                src="/public/images/sugar-lady-rzesy-bondingowe-zdjecie-modelu-drama-queen-1000x947.jpg"
+                src="/images/sugar-lady-rzesy-bondingowe-zdjecie-modelu-drama-queen-1000x947.jpg"
                 alt=""
               />
             </div>
