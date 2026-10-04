@@ -7,8 +7,21 @@ const path = require('path');
 
 const app = express();
 
+const allowedOrigins = [
+  'https://cassylashes.beauty',
+  'https://www.cassylashes.beauty',
+  'https://cassylashes.netlify.app'
+];
+
 app.use(cors({
-  origin: "https://cassylashes.netlify.app/"
+  origin: function(origin, callback) {
+    if (!origin || allowedOrigins.includes(origin)) {
+      callback(null, true);
+    } else {
+      callback(new Error('Not allowed by CORS'));
+    }
+  },
+  credentials: true
 }));
 app.use(express.json());
 app.use(express.static(path.join(__dirname, 'public')));
